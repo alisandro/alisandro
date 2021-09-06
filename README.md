@@ -8,3 +8,7 @@
 alisandro/alisandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+youtube channel
+https://www.youtube.com/watch?v=SJac5EgemBU&t=3s&ab_channel=JulianAlisandroMagdalenoSalas
