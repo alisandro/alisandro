@@ -35,7 +35,7 @@ CITIBANAMEX
 Feb/2023 - Present 
 BACKEND DEV.  
 To support the development team in order to ensure product quality and the achievement of objectives, as well as the creation of solutions in the Platinum project. 
-technologies: springboot APIS sonnar junite microservices oraclesql weblogic server
+technologies: springboot APIS sonnar junite microservices oraclesql weblogic server and javascript
 ----------------------
 INFONAVIT. Jan/2022 - Feb/2023 
 FULL STACK  
@@ -50,6 +50,7 @@ Software Development Consultant
 BANORTE. nov/2020 - nov/2021 
 Developer Analyst 
 I was in charge of a team of 2 junior programmers and the application requirements for PCAIO SUCURSAPPS, with Electron technology used as the front-end. 
+fullstack: tyopecript jqeuery angular and spring framework
 ----------------------
 
 <!---
