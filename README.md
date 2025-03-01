@@ -35,10 +35,12 @@ CITIBANAMEX
 Feb/2023 - Present 
 BACKEND DEV.  
 To support the development team in order to ensure product quality and the achievement of objectives, as well as the creation of solutions in the Platinum project. 
+technologies: springboot APIS sonnar junite microservices oraclesql weblogic server
 ----------------------
 INFONAVIT. Jan/2022 - Feb/2023 
 FULL STACK  
 Creation of a project from scratch to its deployment on the IBM WebSphere production server, as well as providing guidance to the development team. 
+technologies: IBM WEBSHERE jsp jpa hibernate
 ----------------------
 SURA casa de bolsa 
 nov/2021 - jan/2022 
