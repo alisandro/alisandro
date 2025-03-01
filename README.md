@@ -1,9 +1,11 @@
-> [!NOTE]  
+[!NOTE]  
 I'm a highly curious developer.
-> [!IMPORTANT]  
+> 
+[!IMPORTANT]  
 I really enjoy working with Java on the backend.
 I have over 4 years of experience as a Java backend developer.
-> [!WARNING]  
+> 
+[!WARNING]  
 I am eager to learn new programming languages, as I see it as a new challenge to tackle.
 
 - 👋 Hi, I’m @alisandro
