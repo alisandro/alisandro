@@ -2,8 +2,8 @@
 I'm a highly curious developer.
  
 >[!IMPORTANT]  
-I really enjoy working with Java on the backend.
-I have over 4 years of experience as a Java backend developer.
+I really enjoy working with Java on the backend AND I have over 4 years of experience as a Java backend developer.
+>TEHCNOLOGY: ANGULAR||BOOSTRAP|JQUERY|ELECTRON|JAVA EE|SPRING AND SPRING FRAMEWORK|PHP 7|SQL NO SQL|
 
 > [!WARNING]  
 I am eager to learn new programming languages, as I see it as a new challenge to tackle.
